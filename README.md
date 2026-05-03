@@ -121,3 +121,56 @@ The goal was to create a board that is:
 
 * Inspired by the Raspberry Pi Pico
 * Built as part of Hack Club Stasis
+
+# BOM
+Designator,Quantity,Value,Component,Footprint,Notes
+
+# --- Microcontroller & ICs ---
+
+U1,1,RP2040,Microcontroller,QFN-56,Main MCU
+U2,1,MCP73831-2-OT,LiPo Charger,SOT-23-5,Battery charging IC
+U3,1,W25Q64JVZPIQ,Flash Memory,SOIC-8,8MB external flash
+U5,1,AP2112K-3.3,Voltage Regulator,SOT-23-5,3.3V regulator
+
+# --- Clock ---
+
+Y1,1,12MHz,Crystal,3225 SMD,Main clock
+
+# --- Capacitors ---
+
+C1 C10,2,1uF,Capacitor,0402,General decoupling
+C2 C3 C4 C5 C6 C7 C8 C11 C12 C17,10,0.1uF,Capacitor,0402,Decoupling
+C13 C14 C19 C20 C21,5,10uF,Capacitor,0805,Power filtering
+C15 C16,2,22pF,Capacitor,0402,Crystal caps
+C18,1,0.5uF,Capacitor,0402,Special use
+C22,1,100nF,Capacitor,0402,Decoupling
+
+# --- Resistors ---
+
+R1 R2,2,5.1kΩ,Resistor,0603,Pull resistors
+R3 R4,2,27.4Ω,Resistor,0402,USB data lines
+R5 R11,2,100kΩ,Resistor,0603,Pull-up/down
+R6 R9 R14,3,1kΩ,Resistor,0603,General purpose
+R7 R17,2,10kΩ,Resistor,0603,Pull-up/down
+R8 R12 R13,3,47kΩ,Resistor,0603,General purpose
+R10,1,200kΩ,Resistor,0603,Voltage divider
+R15,1,2kΩ,Resistor,0603,General purpose
+
+# --- Diodes ---
+
+D1 D3 D4,3,SS14,Schottky Diode,SOD-123,Power protection
+D2,1,SB0603WC,Diode,SOD-323,Signal diode
+
+# --- Connectors ---
+
+J1,1,USB-C,Connector,USB-C-SMD,Power + data
+J2 J3,2,Pin Header 1x20,Connector,2.54mm,GPIO breakout
+J4,1,Pin Header 1x3,Connector,2.54mm,Aux connection
+J5,1,MicroSD Slot,Connector,MicroSD,External storage
+J6,1,JST-PH 2-pin,Connector,JST-PH,Battery connector
+
+# --- Switches ---
+
+SW1,1,Tactile Switch,Button,SPST,Reset
+SW2,1,Slide Switch,Switch,SMD,Power switch
+SW3,1,Tactile Switch,Button,SPST,Boot
