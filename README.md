@@ -130,6 +130,7 @@ The goal was to create a board that is:
 
 Capacitors
 0.1uF capacitors – 10
+
 1uF capacitors – 2
 10uF capacitors – 5
 22pF capacitors – 2
