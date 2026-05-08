@@ -1,5 +1,10 @@
 # RP2040 Board
 
+## NOTE TO REVIEWER
+
+I didn’t end up recording a timelapse or keeping super consistent journal entries while working on this. Most of the project was done in longer sessions where I was focused on getting things working rather than documenting everything as I went (documenting is boring, and I got lazy). I realize now that I should’ve tracked progress better, but I’ve tried to reconstruct the main steps and decisions afterward as accurately as possible. In the future, I will remember to document more of my work as I go because I've now learned the importance of documenting. Also, this was my first project ever where I have had to document so now I understand how much I have documetn moving forward. 
+
+
 A custom-designed RP2040 development board built for expanded storage, improved power delivery, and practical usability in embedded and DIY CNC applications.
 
 ---
@@ -121,3 +126,47 @@ The goal was to create a board that is:
 
 * Inspired by the Raspberry Pi Pico
 * Built as part of Hack Club Stasis
+
+## BOM
+
+Capacitors
+0.1uF capacitors – 10
+1uF capacitors – 2
+10uF capacitors – 5
+22pF capacitors – 2
+0.5uF capacitor – 1
+100nF capacitor – 1
+
+Diodes
+SS14 diodes – 3
+SB0603W diode – 1
+
+Connectors / I/O
+USB-C receptacle (HRO TYPE-C-31-M-12) – 1
+1x20 pin headers (2.54mm) – 2
+1x3 pin header (2.54mm) – 1
+1x2 pin JST connector (PH series) – 1
+MicroSD card slot – 1
+
+Resistors
+5.1k resistors – 2
+27.4 resistors – 2
+100k resistors – 2
+1k resistors – 3
+10k resistors – 2
+47k resistors – 3
+200k resistor – 1
+2k resistor – 1
+
+Switches
+Push buttons (SPST) – 2
+Slider switch – 1
+
+ICs / Chips
+RP2040 – 1
+MCP73831-2-OT (battery charger) – 1
+W25Q64JVZPIQ (flash memory) – 1
+AP2112K-3.3 (voltage regulator) – 1
+
+Other
+12MHz crystal – 1
