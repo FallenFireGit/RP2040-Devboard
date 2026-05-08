@@ -2,7 +2,7 @@
 
 ## NOTE TO REVIEWER
 
-I didn’t end up recording a timelapse or keeping super consistent journal entries while working on this. Most of the project was done in longer sessions where I was focused on getting things working rather than documenting everything as I went (documenting is boring, and I got lazy). I realize now that I should’ve tracked progress better, but I’ve tried to reconstruct the main steps and decisions afterward as accurately as possible. In the future, I will remember to document more of my work as I go because I've now learned the importance of documenting. Also, this was my first project ever where I have had to document, so now I understand how much I have documented moving forward. 
+I didn’t end up recording a timelapse or keeping super consistent journal entries while working on this. Most of the project was done in longer sessions where I was focused on getting things working rather than documenting everything as I went (documenting is boring, and I got lazy). I realize now that I should’ve tracked progress better, but I’ve tried to reconstruct the main steps and decisions afterward as accurately as possible (In the 12-hour journal entry). In the future, I will remember to document more of my work as I go because I've now learned the importance of documenting. Also, this was my first project ever where I had to document, so now I understand how much I have documented moving forward. 
 
 ---
 
