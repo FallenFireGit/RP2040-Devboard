@@ -92,9 +92,9 @@ The goal was to create a board that is:
 
 ## Images
 
-(<img width="1779" height="1238" alt="image" src="https://github.com/user-attachments/assets/17c60ec4-21b2-4e94-b2b9-38b5601b4ae7" />)
-(<img width="425" height="867" alt="Screenshot 2026-04-14 121702" src="https://github.com/user-attachments/assets/0ccb834a-0bc2-49e2-bfba-cd1b4306bee7" />)
-(<img width="511" height="872" alt="Screenshot 2026-04-14 121847" src="https://github.com/user-attachments/assets/7f866901-f4d2-4c7f-ad0b-941493905d06" />)
+<img width="1779" height="1238" alt="image" src="https://github.com/user-attachments/assets/17c60ec4-21b2-4e94-b2b9-38b5601b4ae7" />
+<img width="425" height="867" alt="Screenshot 2026-04-14 121702" src="https://github.com/user-attachments/assets/0ccb834a-0bc2-49e2-bfba-cd1b4306bee7" />
+<img width="511" height="872" alt="Screenshot 2026-04-14 121847" src="https://github.com/user-attachments/assets/7f866901-f4d2-4c7f-ad0b-941493905d06" />
 
 ---
 
