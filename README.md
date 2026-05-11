@@ -129,43 +129,45 @@ The goal was to create a board that is:
 ## BOM
 
 Capacitors
-* 0.1uF capacitors – 10
-* 1uF capacitors – 2
-* 10uF capacitors – 5
-* 22pF capacitors – 2
-* 0.5uF capacitor – 1
-* 100nF capacitor – 1
+* 0.1uF capacitors 402 – 10
+* 1uF capacitors 402 – 2
+* 10uF capacitors 805 – 5
+* 22pF capacitors 402 – 2
+* 0.5uF capacitor 402 – 1
+* 100nF capacitor 402 – 1
 
-Diodes
-* SS14 diodes – 3
-* SB0603W diode – 1
+Resistors
+* 5.1k resistors 603 – 2
+* 27.4 resistors 603 – 2 
+* 100k resistors 603 – 2
+* 1k resistors 603 – 3
+* 10k resistors 603 – 2
+* 47k resistors 603 – 3
+* 200k resistor 603 – 1
+* 2k resistor 603 – 1
 
-Connectors / I/O
+Total Price of Passive Components ~ $1.90 (Depends on who you buy it from)
+
+Diodes & Clock ~ $1.16
+* SS14 diodes – 3 ~ $0.50 each
+* SB0603W diode – 1 ~ $0.40 
+* * 12MHz crystal – 1 ~ 0.70
+
+Connectors / I/O ~ $4.75
 * USB-C receptacle (HRO TYPE-C-31-M-12) – 1
 * 1x20 pin headers (2.54mm) – 2
 * 1x3 pin header (2.54mm) – 1
 * 1x2 pin JST connector (PH series) – 1
 * MicroSD card slot – 1
 
-Resistors
-* 5.1k resistors – 2
-* 27.4 resistors – 2
-* 100k resistors – 2
-* 1k resistors – 3
-* 10k resistors – 2
-* 47k resistors – 3
-* 200k resistor – 1
-* 2k resistor – 1
-
-Switches
+Switches ~ $1.20
 * Push buttons (SPST) – 2
 * Slider switch – 1
 
-ICs / Chips
-* RP2040 – 1
-* MCP73831-2-OT (battery charger) – 1
-* W25Q64JVZPIQ (flash memory) – 1
-* AP2112K-3.3 (voltage regulator) – 1
+ICs / Chips 
+* RP2040 – 1 $0.92
+* MCP73831-2-OT (battery charger) – 1 $0.76
+* W25Q64JVZPIQ (flash memory) – 1 $1.44
+* AP2112K-3.3 (voltage regulator) – 1 $0.57
 
-Other
-* 12MHz crystal – 1
+ComponentQuantityPrice (Est.)Passives (Capacitors & Resistors)38$1.90Diodes (SS14, SB0603W)4$0.90Clock (12MHz Crystal)1$0.70Connectors / I/O (USB-C, Headers, JST, MicroSD)6$4.75Switches (Push buttons, Slider)3$1.20RP2040 (Microcontroller)1$0.92MCP73831-2-OT (Battery Charger)1$0.76W25Q64JVZPIQ (Flash Memory)1$1.44AP2112K-3.3 (Voltage Regulator)1$0.57TOTAL56$13.14
