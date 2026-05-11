@@ -170,4 +170,16 @@ ICs / Chips
 * W25Q64JVZPIQ (flash memory) – 1 $1.44
 * AP2112K-3.3 (voltage regulator) – 1 $0.57
 
-ComponentQuantityPrice (Est.)Passives (Capacitors & Resistors)38$1.90Diodes (SS14, SB0603W)4$0.90Clock (12MHz Crystal)1$0.70Connectors / I/O (USB-C, Headers, JST, MicroSD)6$4.75Switches (Push buttons, Slider)3$1.20RP2040 (Microcontroller)1$0.92MCP73831-2-OT (Battery Charger)1$0.76W25Q64JVZPIQ (Flash Memory)1$1.44AP2112K-3.3 (Voltage Regulator)1$0.57TOTAL56$13.14
+
+| Component | Quantity | Price (Est.) |
+| :--- | :---: | :--- |
+| **Passives** (Capacitors & Resistors) | 38 | $1.90 |
+| **Diodes** (SS14, SB0603W) | 4 | $0.90 |
+| **Clock** (12MHz Crystal) | 1 | $0.70 |
+| **Connectors / I/O** (USB-C, Headers, JST, MicroSD) | 6 | $4.75 |
+| **Switches** (Push buttons, Slider) | 3 | $1.20 |
+| **RP2040** (Microcontroller) | 1 | $0.92 |
+| **MCP73831-2-OT** (Battery Charger) | 1 | $0.76 |
+| **W25Q64JVZPIQ** (Flash Memory) | 1 | $1.44 |
+| **AP2112K-3.3** (Voltage Regulator) | 1 | $0.57 |
+| **TOTAL** | **56** | **$13.14** |
